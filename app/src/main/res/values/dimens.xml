@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_title_first_fragment">40dp</dimen>
+    <dimen name="margin_to_first_btn">25dp</dimen>
+</resources>
